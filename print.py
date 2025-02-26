@@ -1,0 +1,5 @@
+print("Manjurul Islam")
+print('Manjurul Islam')
+print('0-----')
+print(' |||||')
+print('Manjurul Islam, ' * 10)
